@@ -6,13 +6,14 @@ import { Check } from 'phosphor-react';
 
 
 interface HabitDayProps {
-    completed: number
-    amount: number
+    date: Date
+    completed?: number
+    amount?: number
 }
 
-export function HabitDay({ completed, amount }: HabitDayProps) {
+export function HabitDay({ completed = 0, amount = 0 }: HabitDayProps) {
 
-    const completedPercentage = Math.round((completed / amount) * 100)
+    const completedPercentage = amount > 0 ? Math.round((completed / amount) * 100) : 0
 
 
 
