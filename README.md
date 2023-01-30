@@ -1,6 +1,6 @@
 <h1 align="center"> Habits </h1>
 
-![](./.github/preview.png)
+![](./github/preview.png)
 
 <br>
 <br>
