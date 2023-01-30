@@ -56,17 +56,6 @@ $ npx prisma migrate deploy
 $ npm run dev
 ```
 
-### Mobile
-
-```bash
-# Install the mobile dependencies
-$ cd mobile
-$ npm install
-
-# Start the mobile project
-$ npm start
-```
-
 ## 🔖 Layout
 
 You can view the project layout through the links below:
