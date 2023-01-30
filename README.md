@@ -1,6 +1,6 @@
 <h1 align="center"> Habits </h1>
 
-![](./github/preview.png)
+![](![image](https://user-images.githubusercontent.com/102666726/215368910-9989c24b-4bbd-4eb3-b9ad-0bb2688f7c12.png))
 
 <br>
 <br>
