@@ -1,5 +1,5 @@
 
-![](./.github/cover.png)
+![](./.github/preview.png)
 
 <br>
 <br>
