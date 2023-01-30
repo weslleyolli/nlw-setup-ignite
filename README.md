@@ -1,5 +1,6 @@
+<h1 align="center"> Habits </h1>
 
-![](./.github/cover.png)
+![](.github/preview.png)
 
 <br>
 <br>
@@ -44,16 +45,6 @@ $ npx prisma migrate deploy
 $ npm run dev
 ```
 
-### Mobile
-
-```bash
-# Install the mobile dependencies
-$ cd mobile
-$ npm install
-
-# Start the mobile project
-$ npm start
-```
 
 ## 🔖 Layout
 
