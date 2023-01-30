@@ -3,7 +3,10 @@
   <img src="https://img.shields.io/github/forks/weslleyolli/nlw-setup-ignite?label=forks&message=MIT&color=white&labelColor=8257E5" alt="Forks">
   <img src="https://img.shields.io/github/stars/weslleyolli/nlw-setup-ignite?label=stars&message=MIT&color=white&labelColor=8257E5" alt="Stars">
 </p>
-![](./.github/preview.png)
+<p align="center">
+    <img src="./assets/.github/preview.png" alt="Preview">
+</p>
+
 
 <br>
 <br>
